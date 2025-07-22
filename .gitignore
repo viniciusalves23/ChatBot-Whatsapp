@@ -1,0 +1,15 @@
+# Ignorar dependências do Node.js
+node_modules/
+
+# Ignorar cache do WhatsApp Web JS
+.wwebjs_cache/
+
+# Ignorar arquivos de log e temporários
+*.log
+npm-debug.log*
+
+# VSCode config (opcional)
+.vscode/
+
+# Ambiente
+.env
